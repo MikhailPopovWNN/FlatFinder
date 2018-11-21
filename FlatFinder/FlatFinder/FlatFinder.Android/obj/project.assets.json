@@ -812,11 +812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder.Android\\FlatFinder.Android.csproj",
+      "projectUniqueName": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.Android\\FlatFinder.Android.csproj",
       "projectName": "FlatFinder.Android",
-      "projectPath": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder.Android\\FlatFinder.Android.csproj",
+      "projectPath": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.Android\\FlatFinder.Android.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-      "outputPath": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder.Android\\obj\\",
+      "outputPath": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -833,8 +833,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj": {
-              "projectPath": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj"
+            "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj": {
+              "projectPath": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj"
             }
           }
         }

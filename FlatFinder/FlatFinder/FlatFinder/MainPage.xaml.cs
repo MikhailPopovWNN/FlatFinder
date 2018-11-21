@@ -41,7 +41,7 @@ namespace FlatFinder
             District.Items.Add("Ленинский");
             District.Items.Add("Октябрьский");
             District.Items.Add("Московский");
-            District.Items.Add("Фрузенский");
+            District.Items.Add("Фрунзенский");
 
         }
 
@@ -151,11 +151,20 @@ namespace FlatFinder
                 listView.ItemsSource = photos;
                 stack.Children.Add(imgPrice);
                 stack.Children.Add(ExtraInfo);
+                StackLayout st = new StackLayout();
+                st.Orientation = (StackOrientation)1;
+                Frame f = new Frame();
                 for (int j = 0; j < photos.Count; j++)
                 {
-                    if(j != 2)
-                        stack.Children.Add(photos[j]);
+                    //if(j != 2)
+                   //     stack.Children.Add(photos[j]);
+                    st.Children.Add(photos[j]);
                 }
+                ScrollView a = new ScrollView();
+                a.Content = st;
+                a.Orientation = (ScrollOrientation)1;
+                f.Content = a;
+                stack.Children.Add(f);
             }
             stack.Padding = new Thickness(10,10,10,10);
             Interesting.Content = stack;

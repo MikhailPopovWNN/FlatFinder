@@ -3759,11 +3759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj",
+      "projectUniqueName": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj",
       "projectName": "FlatFinder",
-      "projectPath": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj",
+      "projectPath": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder.csproj",
       "packagesPath": "C:\\Users\\Professional\\.nuget\\packages\\",
-      "outputPath": "D:\\MIsha\\FlatFinder\\FlatFinder\\FlatFinder\\obj\\",
+      "outputPath": "D:\\MIsha\\TritpoProject\\FlatFinder\\FlatFinder\\FlatFinder\\FlatFinder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
