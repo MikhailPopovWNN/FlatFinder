@@ -1,0 +1,16 @@
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\FlatFinder.deps.json
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\FlatFinder.dll
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\FlatFinder.pdb
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.csprojAssemblyReference.cache
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.csproj.CoreCompileInputs.cache
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.AssemblyInfoInputs.cache
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.AssemblyInfo.cs
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.csproj.CopyComplete
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.dll
+D:\MIsha\FlatFinder\FlatFinder\FlatFinder\obj\Debug\netstandard2.0\FlatFinder.pdb

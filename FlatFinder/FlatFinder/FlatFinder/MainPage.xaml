@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              x:Class="FlatFinder.MainPage">
+    <ContentPage>
+        <StackLayout x:Name="SLpage1" Padding="20,10,20,10">
+            <Button x:Name="Logo" 
+                    FontSize="36" 
+                    Text="Flat-Finder" 
+                    CornerRadius="20"  
+                    HorizontalOptions="Center"
+                    Margin="20,20,20,20" 
+                    Padding="20,20,20,20"/>
+            <Label Text="Тип объявления:"/>
+            <Picker x:Name="Type" />
+            <Label Text="Кол-во комнат:"/>
+            <Picker x:Name="Rooms" />
+            <Label Text="Рaйон:"/>
+            <Picker x:Name="District" />
+            <Label Text="Цена(от):"/>
+            <Entry x:Name="PriceA" />
+            <Label Text="Цена(до):"/>
+            <Entry x:Name="PriceB" />
+            <Button x:Name="Find" 
+                    FontSize="25" 
+                    Text="Найти"  
+                    HorizontalOptions="Center"
+                    Margin="10,10,10,10" 
+                    Padding="10,10,10,10"
+                    BorderWidth="1"
+                    BorderColor="Black"
+                    Clicked="Find_click"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage >
+        <ScrollView x:Name="Interesting">
+        </ScrollView>
+    </ContentPage>
+    <ContentPage>
+        <ScrollView>
+            <Label x:Name="Test" />
+        </ScrollView>
+    </ContentPage>
+</CarouselPage>    
